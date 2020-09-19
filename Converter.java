@@ -3,7 +3,7 @@ public class Converter {
         //Your names go here:
         /*
          * @Author: Name of the first student
-         * Name of the second student
+         * Alan Joseph
          * Name of the third student
          *
          */
@@ -13,11 +13,14 @@ public class Converter {
         }
         private double fahrenheitToCelsius(double F){
             // TODO: The second student will implement this method
-            return 0;
+            return ((F-32)*5)/9;
         }
         public static void main(String[] args) {
 //TODO: The first student will implement this method.
+
 // Call CelsiusToFahrenheit to convert 180 Celsius to Fahrenheit value.
+
 // Call FahrenheitToCelsius to convert 250 Fahrenheit to Celsius value.
+
         }
 }
