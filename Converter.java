@@ -22,5 +22,9 @@ public class Converter {
 
 // Call FahrenheitToCelsius to convert 250 Fahrenheit to Celsius value.
 
+       private double kilometersToMiles(double K){
+            return (K * 0.6213711923);
+            }
+
         }
 }
