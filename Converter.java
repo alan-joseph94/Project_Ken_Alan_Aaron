@@ -1,8 +1,9 @@
 public class Converter {
+        // This is the development branch
 
         //Your names go here:
         /*
-         * @Author: Name of the first student
+         * @Author: Kenneth Loughery
          * Alan Joseph
          * Aaron Joseph
          *
