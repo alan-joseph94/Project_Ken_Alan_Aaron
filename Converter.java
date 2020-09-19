@@ -30,5 +30,5 @@ public class Converter {
         temperature = myConverter.fahrenheitToCelsius(250);
         System.out.println("250 degrees Fahrenheit is " + temperature + " degrees Celsius.");
 
-
+        }
 }
