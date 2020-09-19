@@ -30,5 +30,8 @@ public class Converter {
         temperature = myConverter.fahrenheitToCelsius(250);
         System.out.println("250 degrees Fahrenheit is " + temperature + " degrees Celsius.");
 
-
+        double distance = myConverter.kilometersToMiles(30);
+        System.out.println("30 kilometers is " + distance + " miles.");
+      
+        }
 }
